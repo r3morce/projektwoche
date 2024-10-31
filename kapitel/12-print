@@ -1,0 +1,13 @@
+### Aufgabe 1.2: Mehrere Zeilen
+Gib einen mehrzeiligen Text aus:
+```python
+# Beispiel:
+print("Erste Zeile")
+print("Zweite Zeile")
+
+# Deine Aufgabe:
+# Gib einen Steckbrief über dich in 3 Zeilen aus:
+# - Name
+# - Alter
+# - Hobby
+```

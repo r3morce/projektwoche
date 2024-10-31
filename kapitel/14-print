@@ -1,0 +1,10 @@
+### Aufgabe 1.4: Kombinationen
+```python
+# Beispiel:
+print("Die Zahl ist:", 42)
+
+# Kombiniere Text und Zahlen:
+# a) Gib dein Alter mit Text aus
+# b) Gib die aktuelle Temperatur mit Text aus
+# c) Gib deine Schuhgröße mit Text aus
+```

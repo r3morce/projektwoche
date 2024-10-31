@@ -1,0 +1,11 @@
+### Übungsblatt 3: Input
+
+# Aufgabe 3.1
+farbe = input("Was ist deine Lieblingsfarbe? ")
+print("Deine Lieblingsfarbe ist", farbe)
+
+tier = input("Was ist dein Lieblingstier? ")
+print("Dein Lieblingstier ist", tier)
+
+fach = input("Was ist dein Lieblingsfach? ")
+print("Dein Lieblingsfach ist", fach)
