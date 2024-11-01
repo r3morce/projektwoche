@@ -16,5 +16,5 @@ Dieses Projekt enthält eine Aufgabensammlung um die Programmiergrundlagen in Py
 7. Wähle oben links das Icon mit dem Ordner (Open File from Disc) an
 8. Navigiere in den Ordner in den du die ZIP Datei entpackt hast
 9. Navigieren weiter in den Ordner "kapitel"
-10. Öffne dort die Datei `11-print.py`
+10. Öffne dort die Datei `001-print.py`
 11. In deinem Online Python Editor sollte sich nun die Datei mit allen weiteren Infos öffnen
