@@ -1,16 +1,14 @@
 # =================================================================
 # PYTHON GRUNDLAGEN: DATENTYPEN
 # =================================================================
-# In dieser Lektion lernen wir die wichtigsten Datentypen in Python
-# kennen. Datentypen bestimmen, welche Art von Werten wir in unseren
+# Datentypen bestimmen, welche Art von Werten wir in unseren
 # Programmen verwenden können.
 
 # -----------------------------------------------------------------
 # 1. GANZE ZAHLEN (INTEGER)
 # -----------------------------------------------------------------
 # Ganze Zahlen ohne Komma heißen "Integer"
-# TODO: Schaue dir die
-# Ausgabe der verschiedenen Zahlen an
+# TODO: Schaue dir die Ausgabe der verschiedenen Zahlen an
 spieler_level = 42
 print("Level:", spieler_level)
 # highscore = 9999

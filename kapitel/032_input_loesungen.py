@@ -16,8 +16,3 @@ print("\nDein Steckbrief:")
 print("Hobby:", hobby)
 print("Lieblingsessen:", essen)
 print("Lieblingsfarbe:", farbe)
-
-# Lösung 3: Lustiger Tiersatz
-tier = input("Was ist dein Lieblingstier? ")
-print("Wenn", tier, "einen Computer hätte,")
-print("würde es bestimmt den ganzen Tag Tier-Videos anschauen!")

@@ -35,18 +35,9 @@ print("Hallo", name)                   # Verwendet die Eingabe
 # print("Dein Nickname hat", len(nickname), "Buchstaben")
 # print("In Großbuchstaben:", nickname.upper())
 
-# -----------------------------------------------------------------
-# 3. EINGABEN MIT HINWEISTEXT
-# -----------------------------------------------------------------
-# Der Text in input() sollte dem Benutzer helfen zu verstehen,
-# was eingegeben werden soll
-# TODO: Kommentiere die folgenden Zeilen ein und beachte den
-# hilfreichen Hinweistext
-# farbe = input("Was ist deine Lieblingsfarbe (z.B. rot, blau, grün)? ")
-# print("Die Farbe", farbe, "ist eine tolle Wahl!")
 
 # -----------------------------------------------------------------
-# 4. MEHRERE EINGABEN NACHEINANDER
+# 3. MEHRERE EINGABEN NACHEINANDER
 # -----------------------------------------------------------------
 # Wir können beliebig viele Eingaben nacheinander abfragen
 # TODO: Kommentiere die folgenden Zeilen ein und gib verschiedene
@@ -64,6 +55,3 @@ print("Hallo", name)                   # Verwendet die Eingabe
 # 2. Schreibe ein Programm für einen Steckbrief, das nach drei
 #    verschiedenen Informationen fragt (z.B. Hobby, Lieblingsessen,
 #    Lieblingsfarbe) und diese übersichtlich ausgibt
-#
-# 3. Entwickle ein Programm, das nach einem Lieblingstier fragt und
-#    dann einen lustigen Satz damit bildet
