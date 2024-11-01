@@ -49,10 +49,10 @@ print(spieler_name)      # Gibt "Alex" aus
 # -----------------------------------------------------------------
 # TODO: Kommentiere die folgenden Zeilen ein und beobachte, wie
 # Variablen kopiert werden können
-# spieler1 = "Mario"
-# spieler2 = spieler1
-# print("Spieler 1:", spieler1)
-# print("Spieler 2:", spieler2)
+spieler1 = "Mario"
+spieler2 = spieler1
+print("Spieler 1:", spieler1)
+print("Spieler 2:", spieler2)
 
 # -----------------------------------------------------------------
 # ÜBUNGSAUFGABEN
