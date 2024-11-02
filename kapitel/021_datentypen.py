@@ -22,10 +22,10 @@ print("Level:", spieler_level)
 # Zahlen mit Nachkommastellen heißen "Float"
 # TODO: Kommentiere die folgenden Zeilen ein und beachte den Punkt
 # statt Komma bei den Zahlen
-# spielzeit = 12.5
-# print("Spielzeit in Stunden:", spielzeit)
-# geschwindigkeit = 7.8
-# print("Bewegungsgeschwindigkeit:", geschwindigkeit)
+# breite = 7.32
+# print("Torbreite in Meter:", breite)
+# hoehe =  2.44
+# print("Torhöhe in Meter:", hoehe)
 
 # -----------------------------------------------------------------
 # 3. TEXT (STRING)
@@ -37,7 +37,7 @@ print("Level:", spieler_level)
 # print("Spielername:", spieler_name)
 # status = 'online'  # Einfache Anführungszeichen gehen auch
 # print("Status:", status)
-# beschreibung = "Level 5 'Magier'"  # Verschiedene Anführungszeichen mischen
+# beschreibung = "Level 6 'Sylas'"  # Verschiedene Anführungszeichen mischen
 # print("Beschreibung:", beschreibung)
 
 # -----------------------------------------------------------------

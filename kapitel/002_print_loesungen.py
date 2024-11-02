@@ -22,8 +22,8 @@ print("Mittwoch:", 20, "Grad")  # Dritter Tag
 # Lösung 5: Charaktersteckbrief
 # Hier kommt der Steckbrief einer Spielfigur
 print("=== CHARAKTERSTECKBRIEF ===")
-print("Name:", "Luna")              # Name der Figur
-print("Klasse:", "Magierin")        # Charakterklasse
+print("Name:", "Volibear")              # Name der Figur
+print("Klasse:", "Bruiser")        # Charakterklasse
 print("Level:", 5)                  # Aktuelles Level
-print("Spezialfähigkeit:", "Feuerball")
+print("Ulti:", "Stormbringer")
 print("========================")

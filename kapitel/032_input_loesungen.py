@@ -5,7 +5,7 @@
 # Lösung 1: Name und Alter
 name = input("Wie ist dein Name? ")
 alter = input("Wie alt bist du? ")
-print("Hallo", name + "! Du bist also", alter, "Jahre alt.")
+print("Hallo", name + ", Du bist also", alter, "Jahre alt.")
 
 # Lösung 2: Persönlicher Steckbrief
 print("\n=== PERSÖNLICHER STECKBRIEF ===")

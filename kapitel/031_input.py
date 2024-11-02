@@ -22,7 +22,7 @@ print("Hallo", name)                   # Verwendet die Eingabe
 # TODO: Kommentiere die folgenden Zeilen ein und probiere verschiedene
 # Eingaben aus. Beobachte, wie das Programm auf deine Eingabe wartet.
 # lieblingsspiel = input("Was ist dein Lieblingsspiel? ")
-# print("Cool,", lieblingsspiel, "ist ein tolles Spiel!")
+# print("Nice,", lieblingsspiel, "ist wirklich gut!")
 
 # -----------------------------------------------------------------
 # 2. EINGABEN WEITERVERARBEITEN
@@ -32,7 +32,11 @@ print("Hallo", name)                   # Verwendet die Eingabe
 # die Eingabe mehrfach verwendet wird
 # nickname = input("Wähle einen Nickname: ")
 # print("Willkommen,", nickname)
+
+# Die Funktion len() zählt die Buchstaben
 # print("Dein Nickname hat", len(nickname), "Buchstaben")
+
+# Die Funktion upper() wandelt alles in Großbuchstaben um
 # print("In Großbuchstaben:", nickname.upper())
 
 

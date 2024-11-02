@@ -12,7 +12,7 @@ print(spieler_name)      # Gibt "Alex" aus
 
 # TODO: Kommentiere die folgenden Zeilen ein und sieh dir an, wie
 # Variablen erstellt und ausgegeben werden
-# lieblingsspiel = "Minecraft"
+# lieblingsspiel = "Valorant"
 # print("Mein Lieblingsspiel ist", lieblingsspiel)
 
 # -----------------------------------------------------------------
@@ -30,7 +30,7 @@ print(spieler_name)      # Gibt "Alex" aus
 # -----------------------------------------------------------------
 # TODO: Kommentiere die folgenden Zeilen ein und sieh dir an, wie
 # mehrere Variablen zusammen verwendet werden
-# charakter_name = "Luna"
+# charakter_name = "Zer0"
 # charakter_level = 5
 # print("Spielfigur:", charakter_name)
 # print("Level:", charakter_level)
@@ -40,7 +40,7 @@ print(spieler_name)      # Gibt "Alex" aus
 # -----------------------------------------------------------------
 # TODO: Kommentiere die folgenden Zeilen ein und sieh dir an, wie
 # Variablen in Texten verwendet werden können
-# spieler = "Tom"
+# spieler = "Ill Bill"
 # highscore = 100
 # print("Spieler", spieler, "hat einen neuen Highscore von", highscore)
 
@@ -49,7 +49,7 @@ print(spieler_name)      # Gibt "Alex" aus
 # -----------------------------------------------------------------
 # TODO: Kommentiere die folgenden Zeilen ein und beobachte, wie
 # Variablen kopiert werden können
-spieler1 = "Mario"
+spieler1 = "Lotte"
 spieler2 = spieler1
 print("Spieler 1:", spieler1)
 print("Spieler 2:", spieler2)

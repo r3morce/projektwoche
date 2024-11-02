@@ -16,7 +16,7 @@ print(level == 10)       # Ist Level 10?: False
 # wie Texte verglichen werden
 # spieler_name = "Alex"
 # print("Ist der Name Alex?", spieler_name == "Alex")    # True
-# print("Ist der Name Sam?", spieler_name == "Sam")      # False
+# print("Ist der Name Kim?", spieler_name == "Kim")      # False
 
 # -----------------------------------------------------------------
 # 2. GRÖSSER UND KLEINER

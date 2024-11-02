@@ -26,9 +26,9 @@ print("Datentyp:", type(level_geschafft))
 anzahl_heiltraenke = 3          # Integer für Mengenzählung
 gewicht_rucksack = 12.8         # Float für genaues Gewicht
 gegenstand_name = "Zauberring"  # String für Beschreibung
-ist_ausruestbar = True          # Boolean für Status
+ist_ueberladen = True          # Boolean für Status
 print("\n=== INVENTAR STATUS ===")
 print("Heiltränke:", anzahl_heiltraenke, type(anzahl_heiltraenke))
 print("Rucksackgewicht:", gewicht_rucksack, type(gewicht_rucksack))
 print("Gegenstand:", gegenstand_name, type(gegenstand_name))
-print("Ausrüstbar:", ist_ausruestbar, type(ist_ausruestbar))
+print("Ausrüstbar:", ist_ueberladen, type(ist_ueberladen))

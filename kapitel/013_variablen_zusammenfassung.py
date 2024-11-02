@@ -21,10 +21,10 @@ punkte = 100        # Neue Zuweisung
 print(punkte)       # Gibt 100 aus
 
 # 4. VARIABLEN VERWENDEN
-spieler = "Tom"
+spieler = "Ill Bill"
 print("Hallo", spieler)           # In print verwenden
 neuer_spieler = spieler           # Kopieren
-print("Kopie:", neuer_spieler)    # Gibt "Tom" aus
+print("Kopie:", neuer_spieler)    # Gibt "Ill Bill" aus
 
 # 5. HÄUFIGE FEHLER VERMEIDEN
 # name = Max      # Fehler: Text braucht Anführungszeichen

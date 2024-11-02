@@ -7,7 +7,7 @@ antwort = input("Was ist die Hauptstadt von Deutschland? ")
 if antwort == "Berlin":
     print("Super, das ist richtig!")
 else:
-    print("Nicht ganz - die Hauptstadt ist Berlin")
+    print("Nicht ganz - sie fängt mit B an.")
     
 # Lösung 2: Temperatur und Gefrierpunkt
 temperatur = float(input("Wie ist die Temperatur? "))

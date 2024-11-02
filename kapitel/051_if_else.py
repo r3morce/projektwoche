@@ -8,12 +8,13 @@
 # -----------------------------------------------------------------
 # 1. EINFACHE IF-VERZWEIGUNG
 # -----------------------------------------------------------------
-temperatur = 25    # Unsere erste Bedingung!
-if temperatur > 20:    
+temperatur = 25  # Variablen kennst du schon
+if temperatur > 20:  # Vergleiche auch, nur das if und der Doppelpunkt sind neu
     print("Das Wetter ist prima!")  # Wird nur ausgeführt, wenn Bedingung stimmt
 
 # TODO: Kommentiere die folgenden Zeilen ein und probiere verschiedene
-# Temperaturen aus
+# Temperaturen aus, Zum Beispiel 10 und 20
+
 # temperatur_heute = 15
 # if temperatur_heute < 18:
 #     print("Heute ist es kühl!")
@@ -22,6 +23,8 @@ if temperatur > 20:
 # -----------------------------------------------------------------
 # 2. IF-ELSE VERZWEIGUNG
 # -----------------------------------------------------------------
+# Es kann nicht nur etwas ausgeführt werden wenn eine Bedingung zutrifft,
+# sondern auch wenn sie eben nicht zutrifft.
 # TODO: Kommentiere die folgenden Zeilen ein und ändere den
 # regen Wert zwischen True und False
 # regen = True
