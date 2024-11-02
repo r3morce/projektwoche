@@ -29,17 +29,17 @@ if temperatur > 20:  # Vergleiche auch, nur das if und der Doppelpunkt sind neu
 # regen Wert zwischen True und False
 # regen = True
 # if regen:
-#     print("Bleib lieber drinnen")
+#     print("Die Katzen wollen nicht raus.")
 # else:
-#     print("Geh raus und hab Spaß!")
+#     print("Die Katzen gehen raus und haben Spaß!")
 
 # -----------------------------------------------------------------
 # 3. VERGLEICHSOPERATOREN IN BEDINGUNGEN
 # -----------------------------------------------------------------
 # TODO: Kommentiere die folgenden Zeilen ein und probiere
 # verschiedene Werte für uhrzeit aus
-# uhrzeit = 14
-# if uhrzeit == 12:
+# uhrzeit = 11
+# if uhrzeit == 13:
 #     print("Zeit für Mittagessen!")
 # else:
 #     print("Keine Essenszeit")
@@ -79,8 +79,8 @@ if temperatur > 20:  # Vergleiche auch, nur das if und der Doppelpunkt sind neu
 # ÜBUNGSAUFGABEN
 # -----------------------------------------------------------------
 #
-# 1. Entwickle ein kleines Quiz: Frage nach der Hauptstadt von 
-#    Deutschland. Bei richtiger Antwort Lob, bei falscher ein Tipp
+# 1. Entwickle ein kleines Quiz: Frage nach wie viele Katzen Mathias hat.
+#    Bei richtiger Antwort Lob, bei falscher ein Tipp
 #
 # 2. Erstelle ein Programm das prüft, ob die eingegebene Temperatur
 #    über oder unter dem Gefrierpunkt liegt

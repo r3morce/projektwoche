@@ -3,11 +3,11 @@
 # =================================================================
 
 # Lösung 1: Hauptstadt-Quiz
-antwort = input("Was ist die Hauptstadt von Deutschland? ")
-if antwort == "Berlin":
+antwort = input("Wie viele Katzen hat Mathias? ")
+if antwort == 2:
     print("Super, das ist richtig!")
 else:
-    print("Nicht ganz - sie fängt mit B an.")
+    print("Nicht ganz, kleiner Tipp: Sie heisse Ari und Ronja")
     
 # Lösung 2: Temperatur und Gefrierpunkt
 temperatur = float(input("Wie ist die Temperatur? "))

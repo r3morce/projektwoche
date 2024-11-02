@@ -49,10 +49,10 @@ print(spieler_name)      # Gibt "Alex" aus
 # -----------------------------------------------------------------
 # TODO: Kommentiere die folgenden Zeilen ein und beobachte, wie
 # Variablen kopiert werden können
-spieler1 = "Lotte"
-spieler2 = spieler1
-print("Spieler 1:", spieler1)
-print("Spieler 2:", spieler2)
+katze1 = "Ari"
+katze2 = katze1
+print("katze 1:", katze1)
+print("katze 2:", katze2)
 
 # -----------------------------------------------------------------
 # ÜBUNGSAUFGABEN
