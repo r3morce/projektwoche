@@ -10,8 +10,8 @@ OCCUPATIONS = [
 ]
 
 PERSONALITIES = [
-    "neugierig", "vorsichtig", "mutig", "scharfsinnig", "eigensinnig",
-    "kreativ", "loyal", "ehrgeizig", "geheimnisvoll", "enthusiastisch"
+    "neugierige", "vorsichtige", "mutige", "scharfsinnige", "eigensinnige",
+    "kreative", "loyale", "ehrgeizige", "geheimnisvolle", "enthusiastische"
 ]
 
 GOALS = [
