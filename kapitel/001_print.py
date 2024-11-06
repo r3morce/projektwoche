@@ -1,20 +1,20 @@
 # =================================================================
 # PYTHON GRUNDLAGEN: PRINT
 # =================================================================
-# In dieser Lektion lernen wir, wie wir in Python Text und Zahlen 
+# In dieser Lektion lernen wir, wie wir in Python Text und Zahlen
 # ausgeben können.
 
 # print() ist normalerweise die erste Funktion, die Programmierer lernen,
 # weil sie uns hilft zu sehen, was unser Programm gerade macht.
 
-# Die print()-Funktion ist wie ein digitaler Drucker: 
+# Die print()-Funktion ist wie ein digitaler Drucker:
 # Sie zeigt Text, Zahlen oder andere Informationen auf dem Bildschirm an.
 # Mit print() kannst du:
 # - Textnachrichten ausgeben
 # - Rechenergebnisse anzeigen
 # - Statusmeldungen für dein Programm ausgeben
 # - usw.
-# 
+#
 
 # -----------------------------------------------------------------
 # 1. EINFACHE TEXTAUSGABE
